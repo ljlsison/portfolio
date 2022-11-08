@@ -25,6 +25,9 @@ body {
 section{
     padding-top:5%;
 }
+#home-section {
+    padding-top:7.5%
+}
 /* Lading  */
 .jumbotron{
     background-color: transparent;
